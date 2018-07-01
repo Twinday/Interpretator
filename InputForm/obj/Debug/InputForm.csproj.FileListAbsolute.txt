@@ -1,0 +1,12 @@
+D:\Учеба\Моя практика по программированию\C#\2 семестр\Compilator\InputForm\bin\Debug\InputForm.exe.config
+D:\Учеба\Моя практика по программированию\C#\2 семестр\Compilator\InputForm\bin\Debug\InputForm.exe
+D:\Учеба\Моя практика по программированию\C#\2 семестр\Compilator\InputForm\bin\Debug\InputForm.pdb
+D:\Учеба\Моя практика по программированию\C#\2 семестр\Compilator\InputForm\bin\Debug\Logics.dll
+D:\Учеба\Моя практика по программированию\C#\2 семестр\Compilator\InputForm\bin\Debug\Logics.pdb
+D:\Учеба\Моя практика по программированию\C#\2 семестр\Compilator\InputForm\obj\Debug\InputForm.csprojResolveAssemblyReference.cache
+D:\Учеба\Моя практика по программированию\C#\2 семестр\Compilator\InputForm\obj\Debug\InputForm.MainForm.resources
+D:\Учеба\Моя практика по программированию\C#\2 семестр\Compilator\InputForm\obj\Debug\InputForm.Properties.Resources.resources
+D:\Учеба\Моя практика по программированию\C#\2 семестр\Compilator\InputForm\obj\Debug\InputForm.csproj.GenerateResource.Cache
+D:\Учеба\Моя практика по программированию\C#\2 семестр\Compilator\InputForm\obj\Debug\InputForm.csproj.CoreCompileInputs.cache
+D:\Учеба\Моя практика по программированию\C#\2 семестр\Compilator\InputForm\obj\Debug\InputForm.exe
+D:\Учеба\Моя практика по программированию\C#\2 семестр\Compilator\InputForm\obj\Debug\InputForm.pdb
